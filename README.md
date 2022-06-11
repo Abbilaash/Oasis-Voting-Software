@@ -4,17 +4,21 @@ This software is made for the Student Council Election in Vidhya Niketan Public 
 
 ## PRE-REQUISITIES:
 ```
-tkinter
+pip install tkintertable
 ```
 ```
-mysql.connector
+pip install mysql-connector
 ```
 ```
-termcolor
+pip install termcolor
 ```
 ```
-pyfiglet
+pip install pyfiglet
 ```
 ```
-Pillow
+pip install Pillow
 ```
+
+**This software is totally _Offline_**
+
+You Can install XAMPP Server Setup or MySQL database.
