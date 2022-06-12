@@ -18,6 +18,12 @@ pip install pyfiglet
 ```
 pip install Pillow
 ```
+```
+pip install lib-platform
+```
+```
+pip install sockets
+```
 
 **This software is totally _Offline_**
 
